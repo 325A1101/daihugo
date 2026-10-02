@@ -1,0 +1,6 @@
+{
+  "name": "本格大富豪 - 7大特殊ルール対戦",
+  "description": "革命・5スキップ・7渡し・8切り・10捨て・Jバック・Qボンバー・マーク縛りを完全網羅した本格トランプゲーム大富豪。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
